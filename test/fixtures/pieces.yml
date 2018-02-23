@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  artist: MyString
+  image_url: MyString
+  neighborhood: MyString
+
+two:
+  artist: MyString
+  image_url: MyString
+  neighborhood: MyString
